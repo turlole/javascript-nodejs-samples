@@ -29,7 +29,19 @@ Download link: [Visual Studio Code](https://code.visualstudio.com/download)
 ## VSCode: Install extension - gitlens
 * * *
 
+[Youtube: How to use Git inside VSCode](https://www.youtube.com/watch?v=VOwyH2-VCVY)
+
+Sections:
+
+* Install
+* Setup and link to git repository
+* Your first git commit and push
+
 ### Install
+* * *
+
+
+### Setup and link to git repository
 * * *
 
 Step 1: 
@@ -70,10 +82,6 @@ Step 9:
 
 ![Step 9](./images/vscode-git-step-09.png)
 
-
-
-### Setup and link to git repository
-* * *
 
 ### Your first git commit and push
 * * *
