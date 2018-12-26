@@ -86,6 +86,15 @@ Writing a set of code can be done in any text editor software.  The advantages o
 * Easier programming code auto completion in real time.  In the process while you are writing code, the IDE software can easily assist you in giving you a matching keyword or command you may be referring to.
 * Most IDE software assists you in building and running your script or application within the IDE software.  Without an IDE, a developer would need to run the build and execution commands in a command line terminal.
 
+
+## Codebase and Version Control Repository
+* * *
+
+In this project, we will be using [git](https://en.wikipedia.org/wiki/Git) as our version control system and [github](https://github.com/) as our version control repository to share code.
+
+[Youtube: Git and Github For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+
+
 --
 
 // [Home](./README.md) //
